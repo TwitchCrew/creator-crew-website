@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Feedback Team"
-thumbnail: /img/350x150.png
+thumbnail: /img/feedback.png
 categories: jekyll update
 modal_id: feedback-team
 ---
