@@ -20,8 +20,7 @@
 
 title: Creator Crew
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-Looking to the future we wanted to grow beyond Twitch. We are more inclusive to streamers, content creators, viewers, chatters, and everything in between. While shedding the "Twitch" name we still retain the community "crew" we've always strived to be. Creator Crew is the new chapter for us and we're proud to welcome you and all!
+description: Looking to the future we wanted to grow beyond Twitch. We are more inclusive to streamers, content creators, viewers, chatters, and everything in between. While shedding the "Twitch" name we still retain the community "crew" we've always strived to be. Creator Crew is the new chapter for us and we're proud to welcome you and all!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
