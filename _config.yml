@@ -29,6 +29,68 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Team names, titles and social links
+people:
+- name: Noodles
+  pic: 1
+  position: Server Owner
+  social:
+    - title: twitter
+      url: #https://twitter.com/BaggyNoodleArms
+    - title: twitch
+      url: #https://www.twitch.tv/baggynoodlearms
+
+- name: MusiChele
+  pic: 2
+  position: Mod
+  social:
+    - title: twitch
+      url: #https://www.twitch.tv/musichele
+
+- name: BrockintheBox
+  pic: 3
+  position: Mod
+  social:
+    - title: twitch
+      url: #https://www.twitch.tv/misadventuresidr
+    - title: instagram
+      url: #https://instagram.com/brockinthebox
+
+- name: TheRealDarthGuy
+  pic: 4
+  position: Mod
+  social:
+    - title: twitter
+      url: https://twitter.com/TheRealDarthGuy
+    - title: twitch
+      url: #https://www.twitch.tv/therealdarthguy
+    - title: youtube
+      url: #https://www.youtube.com/channel/UCXO5RGKQrR1biEXfUFm9k6w
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+  - title: instagram
+    url: http://instagram.com/jekyll
+  - title: twitch
+    url: http://twitch.com/jekyll
+  - title: youtube
+    url: http://youtube.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+  
 # Build settings
 theme: minima
 plugins:
