@@ -281,6 +281,8 @@ header {
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
+}
+header .intro-text .text-shadow {
     text-shadow: 0px 0px 15px black,
         0px 0px 35px black;
 }
