@@ -9,7 +9,7 @@
             </div>
             <div class="row">
                 {% for member in site.people %}
-                <div class="col-sm-4">
+                <div class="col-xs-12 col-sm-6 col-md-4 col-xl-2">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
@@ -22,7 +22,6 @@
                                 </a>
                             </li>
                             {% endfor %}
-
                         </ul>
                     </div>
                 </div>
@@ -30,7 +29,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">We are always looking for new team members! If you see yourself as a fit, message us and we can send you the form.</p>
+                    <p class="large text-muted">We are always looking for new team members! If you see yourself as a fit, message one of us in Discord and we'll talk!</p>
                 </div>
             </div>
         </div>
