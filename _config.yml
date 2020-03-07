@@ -36,25 +36,25 @@ people:
   position: Server Owner
   social:
     - title: twitter
-      url: #https://twitter.com/BaggyNoodleArms
+      url: https://twitter.com/BaggyNoodleArms
     - title: twitch
-      url: #https://www.twitch.tv/baggynoodlearms
+      url: https://www.twitch.tv/baggynoodlearms
 
 - name: MusiChele
   pic: 2
   position: Mod
   social:
     - title: twitch
-      url: #https://www.twitch.tv/musichele
+      url:#https://www.twitch.tv/musichele
 
 - name: BrockintheBox
   pic: 3
   position: Mod
   social:
     - title: twitch
-      url: #https://www.twitch.tv/misadventuresidr
+      url: https://www.twitch.tv/misadventuresidr
     - title: instagram
-      url: #https://instagram.com/brockinthebox
+      url: https://instagram.com/brockinthebox
 
 - name: TheRealDarthGuy
   pic: 4
@@ -63,9 +63,13 @@ people:
     - title: twitter
       url: https://twitter.com/TheRealDarthGuy
     - title: twitch
-      url: #https://www.twitch.tv/therealdarthguy
+      url: https://www.twitch.tv/therealdarthguy
+    - title: instagram
+      url: https://instagram.com/therealdarthguy
     - title: youtube
-      url: #https://www.youtube.com/channel/UCXO5RGKQrR1biEXfUFm9k6w
+      url: https://www.facebook.com/therealdarthguy
+     - title: facebook
+      url: https://instagram.com/therealdarthguy     
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
