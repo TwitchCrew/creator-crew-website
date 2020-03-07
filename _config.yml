@@ -31,49 +31,49 @@ github_username:  jekyll
 
 # Team names, titles and social links
 people:
-- name: Noodles
-  pic: 1
-  position: Server Owner
-  social:
-    - title: twitter
-      url: https://twitter.com/BaggyNoodleArms
-    - title: twitch
-      url: https://www.twitch.tv/baggynoodlearms
-    - title: instagram
-      url: https://instagram.com/baggynoodlearms
+  - name: Noodles
+    pic: 1
+    position: Server Owner
+    social:
+      - title: twitter
+        url: https://twitter.com/BaggyNoodleArms
+      - title: twitch
+        url: https://www.twitch.tv/baggynoodlearms
+      - title: instagram
+        url: https://instagram.com/baggynoodlearms
 
-- name: MusiChele
-  pic: 2
-  position: Mod
-  social:
-    - title: twitch
-      url: https://www.twitch.tv/musichele
+  - name: MusiChele
+    pic: 2
+    position: Mod
+    social:
+      - title: twitch
+        url: https://www.twitch.tv/musichele
 
-- name: BrockintheBox
-  pic: 3
-  position: Mod
-  social:
-    - title: twitch
-      url: https://www.twitch.tv/misadventuresidr
-    - title: instagram
-      url: https://instagram.com/brockinthebox
-    - title: youtube
-      url: https://www.youtube.com/channel/UC9mYXoNYcSiylbY_sMObR8g
+  - name: BrockintheBox
+    pic: 3
+    position: Mod
+    social:
+      - title: twitch
+        url: https://www.twitch.tv/misadventuresidr
+      - title: instagram
+        url: https://instagram.com/brockinthebox
+      - title: youtube
+        url: https://www.youtube.com/channel/UC9mYXoNYcSiylbY_sMObR8g
 
-- name: TheRealDarthGuy
-  pic: 4
-  position: Mod
-  social:
-    - title: twitch
-      url: https://www.twitch.tv/therealdarthguy
-    - title: twitter
-      url: https://twitter.com/TheRealDarthGuy
-    - title: instagram
-      url: https://instagram.com/therealdarthguy
-    - title: youtube
-      url: https://www.facebook.com/therealdarthguy
-    - title: facebook
-      url: https://instagram.com/therealdarthguy
+  - name: TheRealDarthGuy
+    pic: 4
+    position: Mod
+    social:
+      - title: twitch
+        url: https://www.twitch.tv/therealdarthguy
+      - title: twitter
+        url: https://twitter.com/TheRealDarthGuy
+      - title: instagram
+        url: https://instagram.com/therealdarthguy
+      - title: youtube
+        url: https://www.facebook.com/therealdarthguy
+      - title: facebook
+        url: https://instagram.com/therealdarthguy
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -87,7 +87,7 @@ social:
     url: https://www.twitch.tv/twitchcrewcommunity/videos
   - title: youtube
     url: https://www.youtube.com/channel/UC19ux9oGaHJE2hpVJyZSKfw
-    
+
 # Build settings
 theme: minima
 plugins:
