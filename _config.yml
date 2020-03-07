@@ -31,23 +31,23 @@ people:
     pic: 1
     position: Server Owner
     social:
-      - title: twitter
-        url: https://twitter.com/BaggyNoodleArms
       - title: twitch
         url: https://www.twitch.tv/baggynoodlearms
+      - title: twitter
+        url: https://twitter.com/BaggyNoodleArms
       - title: instagram
         url: https://instagram.com/baggynoodlearms
 
   - name: MusiChele
     pic: 2
-    position: Mod
+    position: Lord and Savior
     social:
       - title: twitch
         url: https://www.twitch.tv/musichele
 
   - name: BrockintheBox
     pic: 3
-    position: Mod
+    position: Social Media Admin
     social:
       - title: twitch
         url: https://www.twitch.tv/misadventuresidr
@@ -58,7 +58,7 @@ people:
 
   - name: TheRealDarthGuy
     pic: 4
-    position: Mod
+    position: Website & Design Admin
     social:
       - title: twitch
         url: https://www.twitch.tv/therealdarthguy
