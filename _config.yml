@@ -45,17 +45,6 @@ people:
       - title: twitch
         url: https://www.twitch.tv/musichele
 
-  - name: BrockintheBox
-    pic: 3
-    position: Social Media Admin
-    social:
-      - title: twitch
-        url: https://www.twitch.tv/misadventuresidr
-      - title: instagram
-        url: https://instagram.com/brockinthebox
-      - title: youtube
-        url: https://www.youtube.com/channel/UC9mYXoNYcSiylbY_sMObR8g
-
   - name: TheRealDarthGuy
     pic: 4
     position: Website & Design Admin
